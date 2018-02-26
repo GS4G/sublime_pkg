@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+ctrl+s","super+ctrl+n"], "command": "coding_linting" }
+]

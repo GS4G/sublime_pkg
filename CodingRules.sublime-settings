@@ -1,0 +1,7 @@
+{
+    "nx_lint_on_save": true,
+    "nx_lint_on_load": true,
+    "nx_lint_auto_lint": false,
+    "nx_lint_auto_lint_delay":1000,
+    "nx_clean_space_tab_on_save": true
+}

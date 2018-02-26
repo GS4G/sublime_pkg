@@ -1,0 +1,5 @@
+[
+    {"caption": "NX: Clean space & tab",   "command": "auto_clean_space"},
+    {"caption": "NX: Lint coding rules",   "command": "coding_linting"},
+    {"caption": "NX: Beautify",            "command": "beautify"},    
+]
